@@ -1,0 +1,8 @@
+/home/stayal0ne/csci151/loops/2power.c: In function ‘main’:
+/home/stayal0ne/csci151/loops/2power.c:6:3: error: ‘cin’ undeclared (first use in this function)
+   cin>>n;
+   ^
+/home/stayal0ne/csci151/loops/2power.c:6:3: note: each undeclared identifier is reported only once for each function it appears in
+/home/stayal0ne/csci151/loops/2power.c:14:3: error: ‘cout’ undeclared (first use in this function)
+   cout<<k;
+   ^
